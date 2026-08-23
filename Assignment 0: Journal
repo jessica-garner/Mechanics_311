@@ -1,0 +1,22 @@
+Where are you starting from?  What is your prior experience with physics, programming, and numerical methods?  What do you feel confident about?  What feels unfamiliar or intimidating?
+
+I have already taken a couple of coding classes (python + Javascript) and quite enjoy programming. 
+In my previous physics course, we had to program smaller-scale simulations so I'm familiar with the idea of this course.
+This being said, I am intimidated by loops and am most worried about simulations that require a lot of value-updating.
+
+
+
+
+What do you want to get out of this course?  Beyond a grade — what skills, understanding, or experiences are you hoping for?  Is there a specific project idea already forming?
+
+I want to be able to get familiar with GitHub. I also want to learn how to use programming as a 'second-brain' that is much 
+better at performing large-scale mathematical operations on Arrays (because a human brain is bound to make mistakes).
+
+
+
+
+How did the setup process go?  Was it straightforward?  Did you hit any roadblocks?  How did you solve them? (If you helped someone in the Help Desk discussion, mention that too-- helping others counts.)
+It went generally fine. The time estimation was spot on; I literally spent 1 hour and 29 minutes setting up. The main
+roadblock I faced was the Kernel; I kept receiving the error that I don't have the proper kernel downloaded and spent ~45 minutes 
+looking for what was correct. Eventually, I looked online and found that I should use a kernel called .venv, which worked.
+I was able to run my jupyternotebook cells after that.
